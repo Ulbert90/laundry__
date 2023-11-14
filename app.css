@@ -1,0 +1,37 @@
+body {
+  background-image: url(https://img.freepik.com/free-photo/view-illuminated-neon-gaming-keyboard-setup-controller_23-2149529368.jpg?w=740&t=st=1699369434~exp=1699370034~hmac=44da3876342d5b6202136364523d03ca613b762ea056536cfeed6d6f05ae1eb8);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.form-group {
+  margin-bottom: 40px;
+}
+
+.panel-body {
+  padding: 40px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  padding: 20px;
+  background-color: #000000aa;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.7); /* Efek neon menggunakan box-shadow */
+  box-sizing: border-box; /* Ganti warna background di sini */
+}
+
+.login-container {
+  margin-right: 40px;
+}
+
+h1 {
+  margin: 0;
+  outline: 2px solid rgba(0, 255, 255, 0.7);
+}
